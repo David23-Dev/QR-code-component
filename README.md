@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flex-sVre5X16IU)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qrcodecomponent-using-css-flex-qU6Ap0dyba)
 - Live Site URL: [GitHub](https://david23-dev.github.io/QR-code-component/)
 
 
@@ -54,9 +54,7 @@ Seguire aprendiendo y reforzando mis conocimientos
 
 ### Useful resources
 
-- [Degradados](https://developer.mozilla.org/es/docs/Web/CSS/CSS_images/Using_CSS_gradients) Esta pagina me ayudo a entender como se realizan los degradados ademas de los distintos tipos formas de los degradados que podemos hacer
-
-- [Media queries](https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries) Me ayudo a poder hacer lo responsivo de la pagina para los navegadores de los dispositivos mobiles
+- [Crear variables](https://developer.mozilla.org/es/docs/Web/CSS/:root) me sirvio para crear colores ya perzonalizados con un nombre
 
 ## Author
 - Mentor de frontend - [@David23-Dev](https://www.frontendmentor.io/profile/David23-Dev)
